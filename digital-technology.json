@@ -1,0 +1,90 @@
+[
+  {
+    "id": "q_1",
+    "text": "What does CPU stand for?",
+    "options": [
+      "Central Process Unit",
+      "Central Processing Unit",
+      "Computer Processor Unit",
+      "Central Power Unit"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q_2",
+    "text": "What is the function of RAM?",
+    "options": [
+      "Permanent storage",
+      "Temporary memory for processing",
+      "Display output",
+      "Power supply"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q_3",
+    "text": "Which component stores data permanently?",
+    "options": [
+      "RAM",
+      "Cache",
+      "Hard Drive",
+      "Motherboard"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "q_4",
+    "text": "What does GSM stand for?",
+    "options": [
+      "Global System for Mobiles",
+      "Global Signal Module",
+      "General Service Module",
+      "Graphical System Module"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q_5",
+    "text": "What is the function of a power supply unit?",
+    "options": [
+      "Store data",
+      "Convert AC to DC voltage",
+      "Process data",
+      "Display information"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q_6",
+    "text": "Which component controls all hardware components?",
+    "options": [
+      "Power Supply",
+      "Motherboard",
+      "Hard Drive",
+      "RAM"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "q_7",
+    "text": "What is SIM in a mobile phone?",
+    "options": [
+      "Subscriber Identity Module",
+      "Signal Input Module",
+      "System Interface Module",
+      "Service Information Module"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "q_8",
+    "text": "What does IMEI stand for?",
+    "options": [
+      "International Mobile Equipment Identifier",
+      "Internal Mobile Electronic Interface",
+      "Integrated Mobile Equipment Integration",
+      "International Mobile Electronic Integration"
+    ],
+    "answer": 0
+  }
+]
